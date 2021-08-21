@@ -37,6 +37,11 @@ hr{
      margin-bottom: 1rem; */
 }
 
+.navigation .link.link-active{
+    font-weight: bold;
+    color: gold;
+}
+
 
 .link-primary:hover{
     font-weight: bold;
