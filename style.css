@@ -36,13 +36,13 @@ hr{
 
 .navigation .link.link-active{
     font-weight: bold;
-    color: gold;
+    color: grey;
 }
 
 
 .link-primary:hover{
-    font-weight: bold;
-    color: gold;
+    font-weight: lighter;
+    color: grey;
 }
 
 .link-primary{
@@ -61,8 +61,8 @@ hr{
 }
 
 .link-secondary:hover{
-    font-weight: bold;
-    color: gold;
+    font-weight: lighter;
+    color: grey;
 }
 
 .list-non-bullet{
@@ -82,8 +82,8 @@ padding: 0rem 0.5rem;
 }
 
 .navigation .link:hover{
-    font-weight: bold;
-    color: gold;
+    font-weight: lighter;
+    color: grey;
 }
 
 .navigation .navbrand{
@@ -150,7 +150,7 @@ padding: 0rem 0.5rem;
 
 .footer .link:hover{
     font-weight: bold;
-    color: gold;
+    color: grey;
 }
 
 .footer .heading{
