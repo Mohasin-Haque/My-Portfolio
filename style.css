@@ -2,7 +2,7 @@
 
 
 :root{
-    --primary-color: #10B981;
+    --primary-color: rgb(12, 211, 247);
     --navy-blue: #6B7280/*#818CF8*/;
     --off-white: #E5E7EB; 
 
@@ -39,7 +39,6 @@ hr{
     color: grey;
 }
 
-
 .link-primary:hover{
     font-weight: lighter;
     color: grey;
@@ -51,9 +50,6 @@ hr{
    color: white;
 }
 
-
-
-
 .link-secondary{
     color: var(--primary-color);
     border-radius: 0.5rem;
@@ -62,7 +58,7 @@ hr{
 
 .link-secondary:hover{
     font-weight: lighter;
-    color: grey;
+    background-color: pink;
 }
 
 .list-non-bullet{
